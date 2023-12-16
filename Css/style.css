@@ -1,0 +1,25 @@
+
+.text {
+    overflow: hidden;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../Image/_124077528_a46be0aa-415a-4763-8006-b062372f2902.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    font-weight: bolder;
+    color: #fff;
+}
+p {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+     color: #fff;
+     text-align: center;
+     font-weight: 400; 
+    
+}
